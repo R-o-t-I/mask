@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "f52593b3d920eecfe0a5",
-    "url": "/mask/static/css/main.95c2c8a8.chunk.css"
+    "revision": "1cff1aa173f9f3128669",
+    "url": "/mask/static/css/main.0e5fe415.chunk.css"
   },
   {
-    "revision": "f52593b3d920eecfe0a5",
-    "url": "/mask/static/js/main.27add084.chunk.js"
+    "revision": "1cff1aa173f9f3128669",
+    "url": "/mask/static/js/main.cbe2f276.chunk.js"
   },
   {
     "revision": "fb3ce7efee8f5aaa1ca7",
     "url": "/mask/static/js/runtime~main.47f931c4.js"
   },
   {
-    "revision": "0b4004d676ba46fa7a7c",
+    "revision": "14b17e81ceac84f5fa4c",
     "url": "/mask/static/css/2.c8c64aa0.chunk.css"
   },
   {
-    "revision": "0b4004d676ba46fa7a7c",
-    "url": "/mask/static/js/2.e6e3f86b.chunk.js"
+    "revision": "14b17e81ceac84f5fa4c",
+    "url": "/mask/static/js/2.608c235e.chunk.js"
   },
   {
     "revision": "927d2a8bbfd53d3d3536",
@@ -124,7 +124,7 @@ self.__precacheManifest = [
     "url": "/mask/static/media/spinner3d.df615ec4.mp4"
   },
   {
-    "revision": "ccc9fe29cfc37aab2bed623245514d8d",
+    "revision": "0e453e6c90c8b1ae2ceb548024a31962",
     "url": "/mask/index.html"
   }
 ];
